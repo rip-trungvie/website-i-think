@@ -8,4 +8,6 @@ v0.2.5: fix the cant find error but it made it worse
 
 v0.3: added the version selector
 
-v0.3.0.1: added this .README file
+v0.3.0.1: added this README file
+
+v0.3.0.2: change ".README" to "README" in the v0.3.0.1 (fix typo)
