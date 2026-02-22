@@ -35,3 +35,5 @@ v0.4.1 build 13: made dark mode and white mode toggle
 v0.4.2 build 14: fixed bugs and change position of the hyperlink
 
 v0.4.3 build 15: changed the hyperlink address to the correct position
+
+v0.4.3.1 build 16: an Easter egg :)idk)
